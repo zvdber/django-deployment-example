@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7824642-e644-45cb-8bd9-d5355b447d17" name="Changes" comment="allowed host is added" />
+    <list default="true" id="d7824642-e644-45cb-8bd9-d5355b447d17" name="Changes" comment="allowed host is added">
+      <change afterPath="$PROJECT_DIR$/learning_templates/static/basic_app/mystyle.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
